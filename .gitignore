@@ -1,0 +1,9 @@
+node_modules/
+data/chain.json
+.env
+.venv/
+venv/
+__pycache__/
+.pytest_cache/
+.alembic/
+dist/
